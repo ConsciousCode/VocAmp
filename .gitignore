@@ -1,0 +1,11 @@
+files/*
+models/
+working/
+obj/
+bin/
+
+*.o
+*.wav
+*.rbm
+*.bmp
+*.pyc
